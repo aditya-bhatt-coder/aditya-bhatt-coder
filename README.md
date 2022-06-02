@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm ADITYA BHATT</h1>
 <h3 align="center">I'm a Problem Solver (CSE undergraduate).</h3>
 
-<img align="right" alt="Coding" width="400" src="oie_trans.gif" /> 
+<img align="right" alt="Coding" width="400" src="output-onlinegiftools.gif" /> 
+<br>
+<br>
 
 - 🔭 I’m currently exploring **AI & ML and Web Development**
 
