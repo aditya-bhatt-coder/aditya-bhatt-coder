@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aditya-bhatt-coder)
 
-- 👯 I’m looking for a **Software Engineer Internship**
+- 👯 I’m looking for a **SDE Internship Role**
 
 - 📫 How to reach me **adithegreat2002@gmail.com**
 
