@@ -5,13 +5,13 @@
 <br>
 <br>
 
-- 🔭 I’m currently exploring **Modern Web App Development**
+- 🔭 I’m currently Trainee Analyst Inter at **Wissen Technology**
 
 - 🌱 Good hold on **Data Structures and Algorithm**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aditya-bhatt-coder)
 
-- 👯 I’m looking for a **SDE Internship Role**
+- 👯 I’m looking for a **Software Engineering Roles**
 
 - 📫 How to reach me **adithegreat2002@gmail.com**
 
