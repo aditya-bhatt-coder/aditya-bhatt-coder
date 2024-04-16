@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aditya-bhatt-coder)
 
-- 👯 I’m looking for **Software Engineering Roles**
-
 - 📫 How to reach me **adithegreat2002@gmail.com**
 
 - ⚡ Fun fact **Every problem has a solution that is simple, fast and wrong!**
