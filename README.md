@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm ADITYA BHATT</h1>
-<h3 align="center">I'm a Computer Science Engineering student.</h3>
+<h1 align="center">Hi, I'm Aditya Bhatt</h1>
+<h3 align="center">A Software Engineer with 1+ year of experience in Software Development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /> 
 <br>
 <br>
 
-- 🔭 I’m currently Trainee Analyst Intern at **Wissen Technology**
+- 🔭 I’m currently Associate Software Engineer at **Wissen Technology**
 
 - 🌱 Good hold on **Data Structures and Algorithm**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aditya-bhatt-coder)
 
-- 📫 How to reach me **adithegreat2002@gmail.com**
+- 📫 How to reach me **adityabhatt933@gmail.com**
 
 - ⚡ Fun fact **Every problem has a solution that is simple, fast and wrong!**
 
